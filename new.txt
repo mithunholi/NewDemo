@@ -1,0 +1,12 @@
+Setup alerts:
+Administration-> syssettings-> Alerts-> 
+
+Actions:
+computers-> action-> any action.
+
+
+
+
+manged engine
+AWS console cred
+Cloudberry tool(backup)
